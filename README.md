@@ -1,9 +1,8 @@
 # Electrious Reflect Util
 
 
-![Build Status](https://img.shields.io/circleci/token/f25b550e8746acfe0d4f91ac8cfe857f1974f747/project/github/electrious-go/refutil/master.svg)
+[![CircleCI](https://circleci.com/gh/electrious-go/cluster/tree/master.svg?style=svg)](https://circleci.com/gh/electrious-go/cluster/tree/master)
 ![Go Report](https://goreportcard.com/badge/github.com/electrious-go/refutil)
-![Go Coverage](http://gocover.io/_badge/github.com/electrious-go/refutil)
 [![Go Doc](https://godoc.org/github.com/electrious-go/refutil?status.svg)](http://godoc.org/github.com/electrious-go/refutil)
 
 `reflect` functionality and sugar we often use in our projects.
