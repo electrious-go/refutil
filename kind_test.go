@@ -5,7 +5,7 @@ import (
 
 	"testing"
 
-	"github.com/electrious/refutil/test"
+	"github.com/electrious-go/refutil/test"
 )
 
 func TestKind(t *testing.T) {

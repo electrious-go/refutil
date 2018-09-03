@@ -1,10 +1,10 @@
 # Electrious Reflect Util
 
 
-![Build Status](https://img.shields.io/circleci/token/f25b550e8746acfe0d4f91ac8cfe857f1974f747/project/github/electrious/refutil/master.svg)
-![Go Report](https://goreportcard.com/badge/github.com/electrious/refutil)
-![Go Coverage](http://gocover.io/_badge/github.com/electrious/refutil)
-[![Go Doc](https://godoc.org/github.com/electrious/refutil?status.svg)](http://godoc.org/github.com/electrious/refutil)
+![Build Status](https://img.shields.io/circleci/token/f25b550e8746acfe0d4f91ac8cfe857f1974f747/project/github/electrious-go/refutil/master.svg)
+![Go Report](https://goreportcard.com/badge/github.com/electrious-go/refutil)
+![Go Coverage](http://gocover.io/_badge/github.com/electrious-go/refutil)
+[![Go Doc](https://godoc.org/github.com/electrious-go/refutil?status.svg)](http://godoc.org/github.com/electrious-go/refutil)
 
 `reflect` functionality and sugar we often use in our projects.
 Who knows maybe you will find it useful as well.
@@ -29,12 +29,12 @@ to prevent panicking.
 Installation is available with `go get` command
 
 ```bash
-go get -u  https://github.com/electrious/refutil
+go get -u  https://github.com/electrious-go/refutil
 ```
 
 ## GoDoc
 
-Complete documentation can be found [http://godoc.org/github.com/electrious/refutil](http://godoc.org/github.com/electrious/refutil)
+Complete documentation can be found [http://godoc.org/github.com/electrious-go/refutil](http://godoc.org/github.com/electrious-go/refutil)
 
 ## Few examples from `refutil` package
 

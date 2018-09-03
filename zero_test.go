@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/electrious/refutil/test"
+	"github.com/electrious-go/refutil/test"
 )
 
 type zeroerTest struct {

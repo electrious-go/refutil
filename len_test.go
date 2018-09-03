@@ -3,7 +3,7 @@ package refutil
 import (
 	"testing"
 
-	"github.com/electrious/refutil/test"
+	"github.com/electrious-go/refutil/test"
 )
 
 func TestLen(t *testing.T) {

@@ -5,7 +5,7 @@ import (
 	"testing"
 	"unsafe"
 
-	"github.com/electrious/refutil/test"
+	"github.com/electrious-go/refutil/test"
 )
 
 func float64bits(f float64) unsafe.Pointer {
